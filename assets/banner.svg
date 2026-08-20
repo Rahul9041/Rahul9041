@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Rahul Paul  DevOps Engineer</title>
+  <desc id="desc">GitHub profile banner. CI/CD, containers, Kubernetes, AWS.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070d14"/>
+      <stop offset="55%" stop-color="#0b1624"/>
+      <stop offset="100%" stop-color="#0a1c22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2EE6C7"/>
+      <stop offset="100%" stop-color="#5BA8FF"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#102033"/>
+      <stop offset="100%" stop-color="#0c1828"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8FB4D4" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="340" fill="url(#bg)"/>
+  <rect width="1280" height="340" fill="url(#grid)"/>
+  <rect x="0" y="0" width="6" height="340" fill="url(#accent)"/>
+
+  <g fill="none" stroke="#7FD9C8" stroke-opacity="0.28" stroke-width="1.25">
+    <path d="M980 54h70l22 22v40"/>
+    <path d="M1120 48v36h56"/>
+    <path d="M1048 210h72l20 18"/>
+    <circle cx="980" cy="54" r="3.5" fill="#2EE6C7" stroke="none"/>
+    <circle cx="1072" cy="76" r="3.5" fill="#5BA8FF" stroke="none"/>
+    <circle cx="1120" cy="48" r="3.5" fill="#2EE6C7" stroke="none"/>
+    <circle cx="1176" cy="84" r="3.5" fill="#5BA8FF" stroke="none"/>
+    <circle cx="1048" cy="210" r="3.5" fill="#2EE6C7" stroke="none"/>
+    <circle cx="1140" cy="228" r="3.5" fill="#5BA8FF" stroke="none"/>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="56" y="92" fill="#7FE7D3" font-size="14" font-weight="700" letter-spacing="3.4">DEVOPS ENGINEER  ·  BENGALURU</text>
+    <text x="52" y="158" fill="#F4F7FB" font-size="58" font-weight="700" letter-spacing="-1.2">Rahul Paul</text>
+    <text x="56" y="200" fill="#B7C7D6" font-size="20">From commit to a running service</text>
+    <rect x="56" y="220" width="86" height="3" rx="2" fill="url(#accent)"/>
+    <text x="56" y="258" fill="#8EA3B7" font-size="16">Jenkins  ·  Docker  ·  Kubernetes  ·  AWS</text>
+    <text x="56" y="288" fill="#6F8496" font-size="14">rahul9041.github.io</text>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="868" y="118" width="108" height="54" rx="10" fill="url(#card)" stroke="#1E3A4C"/>
+    <rect x="1000" y="118" width="108" height="54" rx="10" fill="url(#card)" stroke="#1E3A4C"/>
+    <rect x="1132" y="118" width="92" height="54" rx="10" fill="url(#card)" stroke="#1E3A4C"/>
+    <text x="922" y="140" text-anchor="middle" fill="#93A4B8" font-size="10" letter-spacing="1.5">BUILD</text>
+    <text x="922" y="158" text-anchor="middle" fill="#E8F3F1" font-size="13" font-weight="700">Jenkins</text>
+    <text x="1054" y="140" text-anchor="middle" fill="#93A4B8" font-size="10" letter-spacing="1.5">SHIP</text>
+    <text x="1054" y="158" text-anchor="middle" fill="#E8F3F1" font-size="13" font-weight="700">Docker</text>
+    <text x="1178" y="140" text-anchor="middle" fill="#93A4B8" font-size="10" letter-spacing="1.5">RUN</text>
+    <text x="1178" y="158" text-anchor="middle" fill="#E8F3F1" font-size="13" font-weight="700">K8s</text>
+    <path d="M976 145h24" stroke="#2EE6C7" stroke-width="1.5"/>
+    <path d="M1108 145h24" stroke="#5BA8FF" stroke-width="1.5"/>
+  </g>
+</svg>
